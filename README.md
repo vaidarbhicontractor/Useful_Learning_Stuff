@@ -37,6 +37,6 @@ Here I highlight the list of flutter libraries which is widely used by Flutter D
  ```yield returns the value but doesn't terminate the function whereas returns return the value and terminate the function. ```
 
 
-## Resource :-
+## Resource :- :books:
 
 You can download E - book of this from [E_Book_Flutter_Libraries_We_Love_By_CodeMagic](https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/). Just login and fill your mail id. CodeMagic portal will send you mail for download this E-book.
