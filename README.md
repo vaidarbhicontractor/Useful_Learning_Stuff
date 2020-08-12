@@ -19,7 +19,7 @@ Here I highlight the list of flutter libraries which is widely used by Flutter D
    ```Cached  network  image  helps  to  load  images  from  a  given  network  URL  andcaches them by storing all data in the temporary directory of the app. ```
  + Data Persistence :- [Hive By HiveDB](https://pub.dev/packages/hive)
 
-    ````Hive  is  a  lightweight  yet  powerful  database  that  is  easy  to  manage  and  is  very performant on every platform. ```
+    ```Hive  is  a  lightweight  yet  powerful  database  that  is  easy  to  manage  and  is  very performant on every platform. ```
  + Animations and Transitions :- [Liquid_Swipe By Sahdeep Singh](https://pub.dev/packages/liquid_swipe)
  
    ```Liquid Swipe is a Flutter package that brings the liquid swipe animation to stacked Container. ```
