@@ -1,13 +1,16 @@
 ## Flutter_Libraries_Loved_By_Flutter_Devs :woman_technologist:
 
-Here I highlight the list of flutter libraries which is widely used by Flutter Developers. :slightly_smiling_face:
+Here I highlight the list of flutter libraries which is widely used by Flutter Developers. But remember that other libraries are important too. 
+You will find out in [E_Book_Flutter_Libraries_We_Love_By_CodeMagic](https://blog.codemagic.io/flutter-libraries-ebook-by-codemagic/) or [pub_dev](https://pub.dev/). :slightly_smiling_face:
 
  + State Management :- [Flutter_BLoc By Felix Angelov](https://pub.dev/packages/flutter_bloc)
  
    ```BLoC library to help developers manage their application  state  in  a  predictable,  testable,  and  scalable  way.  ```
+   
  + Networking :- [Dio By Flutter China](https://pub.dev/packages/dio)
  
    ```Dio is a powerful tool for API calls and much more. ```
+
  + UI/UX :- [Velocity_X By Pawan Kumar](https://pub.dev/packages?q=velocity_x)
  
    ```VelocityX  is  a  minimalist  Flutter  framework  inspired by  Tailwind  CSS  and  SwiftUI  for  building  custom  designs  fast. ```
